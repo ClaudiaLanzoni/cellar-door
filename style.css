@@ -1,0 +1,72 @@
+body {
+  background-size: cover;
+  background-image:url('background.jpg');
+  color: white;
+}
+
+.container {
+  width: 1000px;
+  margin: auto;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.box {
+    background: #000000;
+    opacity: 0.5;
+    border-radius: 20px;
+    margin: 0 auto;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 200px;
+}
+
+.logo {
+  text-align: center;
+}
+
+.logo-text {
+  text-align: center;
+  font-weight: bold;
+  color: #00FF00;
+}
+
+#logo-immagine {
+  width: 300px;
+}
+
+.background-nav {
+  background-color: #00FF00;
+  padding: 15px 50px;
+  text-align: center;
+}
+
+.main-monopattino {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+
+.monopattino-text {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.rettangolo-1, .rettangolo-2, .rettangolo-3 {
+  border-radius: 10px;
+  height: 30px;
+}
+
+.rettangolo-1 {
+  width: 400px;
+  background-color: #f5b453;
+}
+
+.rettangolo-2 {
+  width: 600px;
+  background-color: #1ec31e;
+}
+
+.rettangolo-3 {
+  width: 150px;
+  background-color: #be4141;
+}
